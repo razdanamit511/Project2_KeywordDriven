@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-03T10:10:26 IST" name="Suite" finished-at="2024-06-03T10:30:51 IST" duration-ms="1225437">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T10:10:26 IST" name="Test" finished-at="2024-06-03T10:30:51 IST" duration-ms="1225437">
+      <class name="com.qa.controller.TestSuiteExecutor">
+        <test-method is-config="true" signature="Suite_StartUp()[pri:0, instance:com.qa.controller.TestSuiteExecutor@67080771]" started-at="2024-06-03T10:10:25 IST" name="Suite_StartUp" finished-at="2024-06-03T10:10:26 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Suite_StartUp -->
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.qa.controller.TestSuiteExecutor@67080771]" started-at="2024-06-03T10:10:26 IST" name="Setup" finished-at="2024-06-03T10:10:59 IST" duration-ms="32692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="TestClassExecutionSetup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:com.qa.controller.TestSuiteExecutor@67080771]" started-at="2024-06-03T10:10:59 IST" name="TestClassExecutionSetup" finished-at="2024-06-03T10:30:42 IST" duration-ms="1183758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.controller.TestSuiteExecutor.TestClassExecutionSetup(java.lang.reflect.Method,org.testng.ITestContext) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@772485dd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestClassExecutionSetup -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.qa.controller.TestSuiteExecutor@67080771]" started-at="2024-06-03T10:30:43 IST" name="TearDown" finished-at="2024-06-03T10:30:51 IST" duration-ms="8401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="Suite_TearDown()[pri:0, instance:com.qa.controller.TestSuiteExecutor@67080771]" started-at="2024-06-03T10:30:52 IST" name="Suite_TearDown" finished-at="2024-06-03T10:30:59 IST" duration-ms="7802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Suite_TearDown -->
+      </class> <!-- com.qa.controller.TestSuiteExecutor -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

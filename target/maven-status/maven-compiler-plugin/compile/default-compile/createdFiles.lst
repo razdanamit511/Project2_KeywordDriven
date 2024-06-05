@@ -1,0 +1,5 @@
+com\qa\base\BaseTest.class
+com\qa\utils\ReportConfigUtil.class
+com\qa\utils\CommonUtils.class
+com\qa\utils\ReadConfigUtil.class
+com\qa\utils\XLUtil.class

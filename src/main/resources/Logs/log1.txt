@@ -1,0 +1,7 @@
+2024-06-05 22:22:48 INFO  TestSuiteExecutor:60 - Marked TS005_TC005 as passed....
+ .layout.conversionPattern=2024-06-05 22:22:48 INFO  TestSuiteExecutor:60 - Marked TS005_TC005 as passed....
+ 2024-06-05 22:23:06 INFO  ReportConfigUtil:73 - flushes report config to a report file and generates the same
+ .layout.conversionPattern=2024-06-05 22:23:06 INFO  ReportConfigUtil:73 - flushes report config to a report file and generates the same
+ 2024-06-05 22:23:11 INFO  ReportConfigUtil:79 - Opens generated extent report in browser's URI
+ .layout.conversionPattern=2024-06-05 22:23:11 INFO  ReportConfigUtil:79 - Opens generated extent report in browser's URI
+ 
